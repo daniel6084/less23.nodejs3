@@ -1,19 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const emptyDiv = document.getElementById("country-list")
 const input = document.getElementById("input")
 const btn = document.getElementById("btn")
